@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub](https://your-solution-url.com)
-- Live Site URL: [Netlify](https://your-live-site-url.com)
+- Solution URL: [GitHub](https://github.com/Halleys123/product-preview-card-frontendmentor)
+- Live Site URL: [Netlify](https://glowing-queijadas-c3a21b.netlify.app/)
 
 ## My process
 
