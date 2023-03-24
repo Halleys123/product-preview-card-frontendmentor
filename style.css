@@ -114,7 +114,7 @@ main {
   main {
     flex-direction: column;
     width: 90%;
-    height: 65%;
+    height: fit-content;
   }
   .img {
     width: 100%;
@@ -133,5 +133,6 @@ main {
 @media (max-width: 375px) {
   main {
     width: 100%;
+    height: fit-content;
   }
 }
