@@ -110,11 +110,11 @@ main {
     width: 90%;
   }
 }
-@media (max-width: 375px) {
+@media (max-width: 455px) {
   main {
     flex-direction: column;
     width: 90%;
-    height: 90%;
+    height: 65%;
   }
   .img {
     width: 100%;
@@ -122,10 +122,16 @@ main {
   .content {
     width: 100%;
     min-height: 65%;
+    gap: 1.6rem;
     max-height: fit-content;
-    overflow: scroll;
+    overflow: hidden;
   }
   .mainImage {
     content: url(./images/image-product-mobile.jpg);
+  }
+}
+@media (max-width: 375px) {
+  main {
+    width: 100%;
   }
 }
